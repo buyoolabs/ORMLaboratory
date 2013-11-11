@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MicroDal</id>
+    <version>1.3.4847.17639</version>
+    <title>MicroDal</title>
+    <authors>Jesper Jensen</authors>
+    <owners>Jesper Jensen</owners>
+    <licenseUrl>http://microdal.codeplex.com/license</licenseUrl>
+    <projectUrl>http://microdal.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/Download?ProjectName=microdal&amp;DownloadId=132790&amp;Build=18101</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ADO.NET wrapper for easy data access</description>
+    <releaseNotes />
+    <copyright>Copyright 2011</copyright>
+    <language />
+    <tags>ADO.NET ORM</tags>
+  </metadata>
+</package>
